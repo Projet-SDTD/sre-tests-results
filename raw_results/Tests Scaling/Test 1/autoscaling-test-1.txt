@@ -1,0 +1,6 @@
+11:38:00 - lancer le stream
+11:38:40 - premières frames dans kafka
+11:39:00 - autoscaling keda lancé (+ autoscaling infra)
+11:39:40 - phases 2 et 3 qui commencent à travailler
+11:41:40 - nouveau worker online (nouvelles phases 2)
+11:42:00 - autoscaling stabilisé

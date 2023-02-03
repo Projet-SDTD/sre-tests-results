@@ -1,0 +1,5 @@
+12:45:00 - lancement
+12:45:04 - containers créés
+12:45:30 - premières frames dans kafka
+12:45:50 - autoscaling keda
+12:47:40 - stabilisation
